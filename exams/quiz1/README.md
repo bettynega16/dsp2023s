@@ -34,5 +34,8 @@ $ git branch
   dev
 * main
 
-unable to delete dev because of merging problems.
-10. '''git rev-lsit''' will list all the commits made to the project.
+betty@DESKTOP-VBCCV16 MINGW64 ~/DSP_Newfolder/dsp2023s/quiz1pr.8 (main|MERGING)
+$ git branch -d dev
+Deleted branch dev (was 827b1ef).
+
+9. '''git rev-lsit''' will list all the commits made to the project.
